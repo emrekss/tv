@@ -42,9 +42,10 @@
         "id": "star_tv",
         "name": "Star TV",
         "logoUrl": "https://logonoid.com/images/star-tv-logo.png",
-        "streamUrl": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8c4e589hyu4g&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3",
+        "streamUrl": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8c4glrjuqy6w&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3",
         "resolverUrl": "https://www.startv.com.tr/canli-yayin",
         "category": "Ulusal",
+        "order": 4,
         "filters": [
             "star tv",
             "m3u8"
