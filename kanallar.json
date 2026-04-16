@@ -26,6 +26,19 @@
         ]
     },
     {
+        "id": "kanal_d",
+        "name": "Kanal D",
+        "logoUrl": "https://turkey.mom-rsf.org/uploads/_processed_/2/a/csm_240-101_import_ef1a3c513e.png",
+        "streamUrl": "https://demiroren.daioncdn.net/kanald/kanald_720p.m3u8?&sid=8c4ghd5m8yd6&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3",
+        "resolverUrl": "https://www.kanald.com.tr/canli-yayin",
+        "category": "Ulusal",
+        "order": 3,
+        "filters": [
+            "kanal d",
+            "m3u8"
+        ]
+    },
+    {
         "id": "star_tv",
         "name": "Star TV",
         "logoUrl": "https://logonoid.com/images/star-tv-logo.png",
@@ -82,18 +95,6 @@
         "category": "Ulusal",
         "filters": [
             "trt1",
-            "m3u8"
-        ]
-    },
-    {
-        "id": "kanal_d",
-        "name": "Kanal D",
-        "logoUrl": "https://turkey.mom-rsf.org/uploads/_processed_/2/a/csm_240-101_import_ef1a3c513e.png",
-        "streamUrl": "https://demiroren.daioncdn.net/kanald/kanald_720p.m3u8?&sid=8c4e4g301kqq&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3",
-        "resolverUrl": "https://www.kanald.com.tr/canli-yayin",
-        "category": "Ulusal",
-        "filters": [
-            "kanal d",
             "m3u8"
         ]
     },
