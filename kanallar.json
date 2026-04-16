@@ -10,5 +10,17 @@
             "star tv",
             "m3u8"
         ]
+    },
+    {
+        "id": "sözcü_tv",
+        "name": "Sözcü TV",
+        "logoUrl": "https://www.szctv.com.tr/assets/img/szc-logo.png",
+        "streamUrl": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1776399973/ei/BWLhabznLrXo6dsPxpSj8A4/ip/176.42.132.48/id/ztmY_cCtUl0.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-u0g3jxaa-n5fz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AUUZDGKH6su9MezAAJ7246pGeKUU1MKvBHhkg87wAIrukT4BH-zbc6jB6-Z8yce8sfx8gTnetC1KOGvO/spc/jlWavSkbZOfPq-R7BaNapkt4NIJc49N1lceU0kO_-jbmoAgN1Q/vprv/1/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/1827500/met/1776378374,/mh/2L/mm/44/mn/sn-u0g3jxaa-n5fz/ms/lva/mv/m/mvi/3/pl/20/rmhost/rr9---sn-u0g3jxaa-n5fz.googlevideo.com/rms/lva,lva/smhost/rr6---sn-u0g3jxaa-n5fs.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/mt/1776377803/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgJz6NWmdG56WfPlEISOv-_86_-s6Q2_XI664IvXNl9-4CIQDrI-rF2OajRRjeo-7_0hlukREztqsyg80o3NnqDsduLg%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms,smhost/lsig/APaTxxMwRQIgPVuSyPYt-7SAVkIzrrVShTPNTUIxD36F5NUEITK9jF8CIQCCZOyHQniBPg-ysnaOPbNhxQOr0_qx86v5NPWY_Ru18w%3D%3D/playlist/index.m3u8",
+        "resolverUrl": "https://www.youtube.com/embed/ztmY_cCtUl0?si=MVRz0W9UIHi60OEV",
+        "category": "Haber",
+        "filters": [
+            "sözcü tv",
+            "m3u8"
+        ]
     }
 ]
