@@ -154,5 +154,17 @@
             "haber türk",
             "m3u8"
         ]
+    },
+    {
+        "id": "tv2",
+        "name": "Tv2",
+        "logoUrl": "https://static.tv2.com.tr/assets/img/tv2-logo.svg?v=1",
+        "streamUrl": "https://demiroren.daioncdn.net/teve2/teve2_720p.m3u8?&sid=8c4ec1mrb9bm&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3",
+        "resolverUrl": "https://www.tv2.com.tr/canli-yayin",
+        "category": "Ulusal",
+        "filters": [
+            "tv2",
+            "m3u8"
+        ]
     }
 ]
