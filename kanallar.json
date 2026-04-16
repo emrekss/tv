@@ -91,6 +91,19 @@
         ]
     },
     {
+        "id": "kanal_7",
+        "name": "Kanal 7",
+        "logoUrl": "https://cdn.kanal7.com/kanal7/wp-content/themes/kanal7/v2/images/kanal7-logo.svg",
+        "streamUrl": "https://kanal7.daioncdn.net/kanal7/kanal7_720p.m3u8?&sid=8c4gob6ywqv5&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3",
+        "resolverUrl": "https://www.kanal7.com/canli-izle",
+        "category": "Ulusal",
+        "order": 8,
+        "filters": [
+            "kanal 7",
+            "m3u8"
+        ]
+    },
+    {
         "id": "sözcü_tv",
         "name": "Sözcü TV",
         "logoUrl": "https://www.szctv.com.tr/assets/img/szc-logo.png",
@@ -159,18 +172,6 @@
         "category": "Ulusal",
         "filters": [
             "beyaz tv",
-            "m3u8"
-        ]
-    },
-    {
-        "id": "kanal_7",
-        "name": "Kanal 7",
-        "logoUrl": "https://cdn.kanal7.com/kanal7/wp-content/themes/kanal7/v2/images/kanal7-logo.svg",
-        "streamUrl": "https://kanal7.daioncdn.net/kanal7/kanal7_720p.m3u8?&sid=8c4e6sz1st7a&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3",
-        "resolverUrl": "https://www.kanal7.com/canli-izle",
-        "category": "Ulusal",
-        "filters": [
-            "kanal 7",
             "m3u8"
         ]
     },
