@@ -65,6 +65,19 @@
         ]
     },
     {
+        "id": "now",
+        "name": "NOW",
+        "logoUrl": "https://tpsbayxekmes.merlincdn.net//img/logos/logo.svg",
+        "streamUrl": "https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1776439125&st=X_izZQ_wmMzL7M1Z37LzYg",
+        "resolverUrl": "https://www.nowtv.com.tr/canli-yayin",
+        "category": "Ulusal",
+        "order": 6,
+        "filters": [
+            "now",
+            "m3u8"
+        ]
+    },
+    {
         "id": "sözcü_tv",
         "name": "Sözcü TV",
         "logoUrl": "https://www.szctv.com.tr/assets/img/szc-logo.png",
@@ -157,18 +170,6 @@
         "category": "Ulusal",
         "filters": [
             "tv8",
-            "m3u8"
-        ]
-    },
-    {
-        "id": "now",
-        "name": "NOW",
-        "logoUrl": "https://tpsbayxekmes.merlincdn.net//img/logos/logo.svg",
-        "streamUrl": "https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1776437594&st=OHyet4PJ86P4QdNWvJ2Gxg",
-        "resolverUrl": "https://www.nowtv.com.tr/canli-yayin",
-        "category": "Ulusal",
-        "filters": [
-            "now",
             "m3u8"
         ]
     },
