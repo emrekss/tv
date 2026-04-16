@@ -142,5 +142,17 @@
             "ülke tv",
             "m3u8"
         ]
+    },
+    {
+        "id": "haber_türk",
+        "name": "Haber Türk",
+        "logoUrl": "https://www.haberturk.com/images/common/logo/svg/haberturk-logo.svg",
+        "streamUrl": "https://ciner.daioncdn.net/haberturktv/haberturktv_720p.m3u8?sid=8c4eaxtdnlj4&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3",
+        "resolverUrl": "https://www.haberturk.com/canliyayin",
+        "category": "Haber",
+        "filters": [
+            "haber türk",
+            "m3u8"
+        ]
     }
 ]
