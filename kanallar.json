@@ -104,6 +104,19 @@
         ]
     },
     {
+        "id": "beyaz_tv",
+        "name": "Beyaz TV",
+        "logoUrl": "https://beyaztv.com.tr/images/logo.png",
+        "streamUrl": "https://beyaztv.daioncdn.net/beyaztv/beyaztv_720p.m3u8?&sid=8c4gozfa88jm&app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3",
+        "resolverUrl": "https://beyaztv.com.tr/canli-yayin",
+        "category": "Ulusal",
+        "order": 9,
+        "filters": [
+            "beyaz tv",
+            "m3u8"
+        ]
+    },
+    {
         "id": "sözcü_tv",
         "name": "Sözcü TV",
         "logoUrl": "https://www.szctv.com.tr/assets/img/szc-logo.png",
