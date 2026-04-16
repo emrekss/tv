@@ -118,5 +118,17 @@
             "tv8",
             "m3u8"
         ]
+    },
+    {
+        "id": "now",
+        "name": "NOW",
+        "logoUrl": "https://tpsbayxekmes.merlincdn.net//img/logos/logo.svg",
+        "streamUrl": "https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1776437594&st=OHyet4PJ86P4QdNWvJ2Gxg",
+        "resolverUrl": "https://www.nowtv.com.tr/canli-yayin",
+        "category": "Ulusal",
+        "filters": [
+            "now",
+            "m3u8"
+        ]
     }
 ]
