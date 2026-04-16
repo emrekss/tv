@@ -22,5 +22,17 @@
             "sözcü tv",
             "m3u8"
         ]
+    },
+    {
+        "id": "ntv",
+        "name": "NTV",
+        "logoUrl": "https://cdn03.ciceksepeti.com/cicek/kcm83115456-1/XL/ntv-logo-1-kcm83115456-1-316279f64c634676878b30f40068466e.jpg",
+        "streamUrl": "https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&sid=8c4bqh9inyc3&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3",
+        "resolverUrl": "https://www.ntv.com.tr/canli-yayin/ntv",
+        "category": "Haber",
+        "filters": [
+            "ntv",
+            "m3u8"
+        ]
     }
 ]
