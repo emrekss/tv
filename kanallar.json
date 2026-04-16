@@ -247,6 +247,19 @@
         ]
     },
     {
+        "id": "dmax",
+        "name": "Dmax",
+        "logoUrl": "https://www.dmax.com.tr/img/logo.svg",
+        "streamUrl": "https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=UFlBOFRyQ1ZIUWxLcWh4MCtxYXhwalZWK1JORWlVOHB2QVdRTFVrdGdPVT0=&sid=8c4ieo2rj5vg&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3",
+        "resolverUrl": "https://www.dmax.com.tr/canli-izle",
+        "category": "Belgesel",
+        "order": 26,
+        "filters": [
+            "dmax",
+            "m3u8"
+        ]
+    },
+    {
         "id": "sözcü_tv",
         "name": "Sözcü TV",
         "logoUrl": "https://www.szctv.com.tr/assets/img/szc-logo.png",
