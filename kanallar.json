@@ -172,7 +172,7 @@
         "id": "24_tv",
         "name": "24 TV",
         "logoUrl": "https://www.yirmidort.tv/assets/header/logoWhite.png",
-        "streamUrl": "https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8",
+        "streamUrl": "https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8",
         "resolverUrl": "https://www.yirmidort.tv/televizyon/canli-yayin/",
         "category": "Haber",
         "order": 17,
