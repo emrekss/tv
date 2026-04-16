@@ -182,6 +182,19 @@
         ]
     },
     {
+        "id": "360",
+        "name": "360",
+        "logoUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kZVDU4urtdSMj-Ubv76W22JRs-GiLQN1UA29bzu4aa6uk=s900-c-k-c0x00ffffff-no-rj",
+        "streamUrl": "https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8",
+        "resolverUrl": "https://www.tv360.com.tr/canli-yayin",
+        "category": "Ulusal",
+        "order": 24,
+        "filters": [
+            "360",
+            "m3u8"
+        ]
+    },
+    {
         "id": "sözcü_tv",
         "name": "Sözcü TV",
         "logoUrl": "https://www.szctv.com.tr/assets/img/szc-logo.png",
