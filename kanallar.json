@@ -82,5 +82,17 @@
             "show tv",
             "m3u8"
         ]
+    },
+    {
+        "id": "beyaz_tv",
+        "name": "Beyaz Tv",
+        "logoUrl": "https://beyaztv.com.tr/images/logo.png",
+        "streamUrl": "https://beyaztv.daioncdn.net/beyaztv/beyaztv_720p.m3u8?&sid=8c4e6asl22vn&app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3",
+        "resolverUrl": "https://beyaztv.com.tr/canli-yayin",
+        "category": "Ulusal",
+        "filters": [
+            "beyaz tv",
+            "m3u8"
+        ]
     }
 ]
