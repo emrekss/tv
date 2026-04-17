@@ -237,7 +237,7 @@
         "id": "tlc",
         "name": "TLC",
         "logoUrl": "https://img-tlctv.mncdn.com/logo.png?v=1.1",
-        "streamUrl": "https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?token=RDB6OGw0OWtmSzcxYjRibWNvMTRvNWxOaTJzQUdlbks5WHBuY2gzWlkvcz0=&sid=8c4ie1kmfhtg&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3",
+        "streamUrl": "https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?token=WjVtWWwycFlXRm1nejhqQzhIYlB3SURpK2hpWWdnbndkRU1qaElqcDFZbz0=&sid=8c6dket8q170&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3",
         "resolverUrl": "https://www.tlctv.com.tr/canli-izle",
         "category": "Belgesel",
         "order": 25,
