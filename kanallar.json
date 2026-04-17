@@ -198,7 +198,7 @@
         "id": "bloomberg_ht",
         "name": "Bloomberg HT",
         "logoUrl": "https://geoim.bloomberght.com/l/2018/01/27/ver1737820673/2090565/jpg/640x360",
-        "streamUrl": "https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8?ex=1649424566&st=4Y790MeXScF5LDOhVNykUQ&tv=1&sid=8c4i6twqxurr&app=201b9556-b11c-4d92-b264-f21fd24e9aaf&ce=3",
+        "streamUrl": "https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8?ex=1649424566&st=4Y790MeXScF5LDOhVNykUQ&tv=1&sid=8c6dbpq4l11c&app=201b9556-b11c-4d92-b264-f21fd24e9aaf&ce=3",
         "resolverUrl": "https://www.bloomberght.com/tv",
         "category": "Ekonomi",
         "order": 19,
