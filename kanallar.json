@@ -107,7 +107,7 @@
         "id": "beyaz_tv",
         "name": "Beyaz TV",
         "logoUrl": "https://beyaztv.com.tr/images/logo.png",
-        "streamUrl": "https://beyaztv.daioncdn.net/beyaztv/beyaztv_1080p.m3u8?&sid=8c4hv7uub7ry&app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3",
+        "streamUrl": "https://beyaztv.daioncdn.net/beyaztv/beyaztv_1080p.m3u8?&sid=8c6cy96a2fvt&app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3",
         "resolverUrl": "https://beyaztv.com.tr/canli-yayin",
         "category": "Ulusal",
         "order": 9,
