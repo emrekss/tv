@@ -250,7 +250,7 @@
         "id": "dmax",
         "name": "Dmax",
         "logoUrl": "https://www.dmax.com.tr/img/logo.svg",
-        "streamUrl": "https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=UFlBOFRyQ1ZIUWxLcWh4MCtxYXhwalZWK1JORWlVOHB2QVdRTFVrdGdPVT0=&sid=8c4ieo2rj5vg&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3",
+        "streamUrl": "https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=a3V2MXRNV293Y0xyS0NjWGxoQURuSXk1VTlLOFIxOGd5d1E3N25FYlpsdz0=&sid=8c6dl1hoj9ub&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3",
         "resolverUrl": "https://www.dmax.com.tr/canli-izle",
         "category": "Belgesel",
         "order": 26,
