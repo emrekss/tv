@@ -146,7 +146,7 @@
         "id": "haber_turk",
         "name": "Haber Türk",
         "logoUrl": "https://www.haberturk.com/images/common/logo/svg/haberturk-logo.svg",
-        "streamUrl": "https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=8c4hyhdfqlne&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3",
+        "streamUrl": "https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=8c6d47nrv4tc&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3",
         "resolverUrl": "https://www.haberturk.com/canliyayin",
         "category": "Haber",
         "order": 13,
